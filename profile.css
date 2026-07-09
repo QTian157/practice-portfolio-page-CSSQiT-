@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f7fa;
+    color: #333;
+    margin: 0;
+}
+
+.header {
+    background-color: #4a90e2;
+    color: white;
+    padding: 25px;
+    text-align: center;
+}
+
+#about {
+    background-color: white;
+    margin: 25px;
+    padding: 20px;
+}
+ul {
+    width: 250px;
+    margin: auto;
+}
+
+#skills {
+    background-color: #e8f1fb;
+    margin: 25px;
+    padding: 20px;
+}
+
+table {
+    margin: auto;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    padding: 10px;
+}
+
+img {
+    border-radius: 50%;
+}
+
+.footer {
+    background-color: #4a90e2;
+    color: white;
+    padding: 15px;
+}
